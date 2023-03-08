@@ -1,1 +1,1 @@
-My 0x00. Shell, basics readme
+My Shell basics readme
